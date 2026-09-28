@@ -9,27 +9,27 @@ export default function SkillsSection() {
         <div>
           <h3 className="text-sm font-medium text-stone-500">Languages</h3>
           <div className="mt-3 flex flex-wrap gap-2">
-            <SkillTag name="HTML" />
-            <SkillTag name="CSS" />
+            <SkillTag name="TypeScript" />
+            <SkillTag name="Python" />
             <SkillTag name="JavaScript" />
-            <SkillTag name="JSX" />
+            <SkillTag name="SQL" />
           </div>
         </div>
         <div>
           <h3 className="text-sm font-medium text-stone-500">Web stack</h3>
           <div className="mt-3 flex flex-wrap gap-2">
             <SkillTag name="React" />
-            <SkillTag name="Tailwind CSS" />
-            <SkillTag name="React DOM" />
+            <SkillTag name="Next.js" />
+            <SkillTag name="FastAPI" />
           </div>
         </div>
         <div>
           <h3 className="text-sm font-medium text-stone-500">Tools</h3>
           <div className="mt-3 flex flex-wrap gap-2">
             <SkillTag name="Git" />
-            <SkillTag name="GitHub" />
-            <SkillTag name="Terminal" />
-            <SkillTag name="Vite" />
+            <SkillTag name="Docker" />
+            <SkillTag name="AWS" />
+            <SkillTag name="PostgreSQL" />
           </div>
         </div>
       </div>

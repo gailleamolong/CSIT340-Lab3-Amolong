@@ -4,7 +4,7 @@ export default function Hero() {
       <p className="text-sm font-medium text-stone-500">Hi, I&apos;m</p>
       <h1 className="mt-2 text-5xl font-semibold tracking-tight">Gaille Amolong</h1>
       <p className="mt-4 max-w-xl text-lg leading-relaxed text-stone-600">
-        A third year BSIT student at CIT-U learning to build web projects.
+        A third year BSIT student and software engineer working on AI and security.
       </p>
       <div className="mt-8 flex gap-3">
         <a href="#projects" className="rounded-lg bg-stone-900 px-5 py-2.5 text-sm font-medium text-white hover:bg-stone-700">See my projects</a>

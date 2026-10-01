@@ -1,4 +1,4 @@
-# CSIT340 Lab 3 — Gaille Amolong
+# CSIT340 Lab 2 — Gaille Amolong
 
 A React portfolio using the structure and classes from the provided `portfolio.html`. The stylesheet is disabled so the page displays with browser-default styling. Tailwind remains configured as part of the lab scaffold.
 
